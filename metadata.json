@@ -1,0 +1,6 @@
+{
+  "name": "DASC_IA",
+  "description": "Sistema y Observatorio DASC_IA: Análisis estadístico de entrevistas, métodos de pronósticos (cualitativos y cuantitativos) y manual de roles para instructores, aprendices y coordinadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
